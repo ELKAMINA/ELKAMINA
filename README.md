@@ -82,7 +82,7 @@
      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
    </p>
 
-   <h3>🧪&emsp;Side projects</h3>
+   <h3>🧪&emsp;42 projects</h3>
 
   | Project link | Description |  Languages/Techs | Final grade |
   | :- | :-: | :-: | :-: |
