@@ -38,7 +38,7 @@
 <hr/>
 
 
-  <h3>👨‍💻&emsp;Main Languages</h3>
+  <h3>👨‍💻&emsp;Main Languages (Or Markup...)</h3>
     <p>
         <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white&style=for-the-badge"></a>
         <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge"></a>
@@ -57,6 +57,7 @@
       
   <h3>🧰&emsp;Tools</h3>
     <p>
+      <a href="#"><img alt="Jest" src="https://badges.aleen42.com/src/jest_2.svg"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
       <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
@@ -80,6 +81,33 @@
    <p>
      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
    </p>
+
+  | Project link | Description |  Languages/Techs | Final grade |
+  | :- | :-: | :-: | :-: |
+  | <a href="https://github.com/ELKAMINA/42_transcendance">ft_transcendence</a> | A full-stack social app to talk and play with friends | <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> <img alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"> <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"> <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> | .... |
+  | <a href="https://github.com/ELKAMINA/42_irc">ft_irc</a> | Irc server clone | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> | 100/125 |
+  | <a href="https://github.com/ELKAMINA/42_Inception">Inception</a> | Containerizing MariaDB, nginx Server and wordpress  | <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"> <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white"> <img alt="Alpine" src="https://img.shields.io/badge/Alpine-%230db7ed.svg?logo=alpine&logoColor=white%22"> <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"> <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"> | 100/125 |
+  | <a href="https://github.com/ELKAMINA/42_ftcontainers">ft_containers</a> | Custom version of C++98 compliant containers : Vector, Stack, Map, Set (with RBTree) | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> | 100/125 |
+  | <a href="https://github.com/ELKAMINA/42_piscineCPP">CPP_modules</a> | An introductive project to C++ programming | <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"> | 100/100 |
+  | <a href="https://github.com/CamilleBarbit/CUB3D---FirstVersion">Cub3D</a> | A Raycasting project aiming to reproduce Wolfenstein 3D | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/125 |
+  | Netpractice | An introduction to networking and IP address | N/A | 100/100 |
+  | <a href="https://github.com/Thegreymago/minishell">Minishell</a> | A custom implementation of bash based on the posix version | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/125 |
+  | <a href="#">Philosophers</a> | Understanding multi-threading with the Dining philosophers problem | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/125 |
+  | <a href="https://github.com/ELKAMINA/42_PushSwap0403">Push_swap</a> | A sorting algorithm using 2 stacks and limited operations | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/125 |
+  | <a href="https://github.com/ELKAMINA/42_pipex_retry1">Pipex</a> | Using unix to understand the pipe | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/125 |
+  | <a href="https://github.com/ELKAMINA/42_soLong">So_long</a> | Graphical Game using custom library | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/125 |
+  | <a href="https://github.com/ELKAMINA/42_printf">ft_printf</a> | Recoding printf function from C language | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 100/125 |
+  | <a href="https://github.com/ELKAMINA/42_gnlFinal">get_next_line</a> | Coding a function allowing to read line from a file | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
+  | BornToBeRoot | A sysadmin introduction project on a virtual machine | <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"> <img alt="Debian" src="https://img.shields.io/badge/Alpine-%230db7ed.svg?logo=alpine&logoColor=white%22)"> | 100/125 |
+  | <a href="https://github.com/ELKAMINA/42_libft">Libft</a> | My custom implementation of libc functions | <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"> | 125/125 |
+
+  <h3>🧪&emsp;Side projects</h3>
+  
+ Project link | Languages/Techs  |
+  | :- | :-: |
+ <a href="https://github.com/ELKAMINA/ifocop_moroccansotagame">Multi-player game with real time communication </a> | <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">  <img alt="Nodejs" src="https://badges.aleen42.com/src/node.svg"> <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> |
+  | <a href="https://github.com/ELKAMINA/cv-inese-def">Profesional project: Online CV </a>  | <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> |
+<a href="https://github.com/ELKAMINA/1stProject_CVGAM">Game consisting of killing bats to find out who i am</a> |  <img alt="Vanilla Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">|
 
 
 <details>
