@@ -18,7 +18,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Learned all i know in code from 42 school ❤️ (https://profile.intra.42.fr/) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Learned all i know in code from 42 school ❤️ \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Interests for science and tech.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently developping my technical and coding skills.\
